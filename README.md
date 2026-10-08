@@ -43,6 +43,54 @@ Java • Spring Boot • Node.js • PostgreSQL
 
 ## Featured Projects
 
+### Sistema de Biblioteca (Full Stack)
+
+Full-stack library management system with JWT auth, role-based access, and a loan-tracking dashboard.
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Database & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Arthur-Stellato/Sistema-Biblioteca)
+
+---
+### MóvelCarente - Furniture Donation Platform (Full Stack)
+
+Collaborative platform that connects people who want to donate furniture and household items with individuals and families in need. Includes authentication, item catalog, donations, reviews, real-time chat and background e-mail processing.
+
+**Highlights**
+- JWT authentication with refresh tokens, request validation (Joi) and security headers (Helmet)
+- Real-time chat with Socket.IO
+- E-mail queue processed in the background with BullMQ + Redis
+- REST API documented with Swagger
+- Fully containerized with Docker Compose (API, front-end with Nginx and Redis)
+- Deployed with multiple strategies: Vercel, Railway and VPS
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Database & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Arthur-Stellato/Projeto-Movel-Carente) [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://projeto-movel-carente.vercel.app)
+
+---
+---
+
 ### Java CRUD + MySQL
 
 CRUD application using JDBC with MySQL persistence.
